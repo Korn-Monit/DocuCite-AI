@@ -59,11 +59,3 @@ DocuCite-AI/
 ## Using Alternative LLMs
 
 While the default setup uses an LLM API for efficiency, you can configure the application to use open-source LLMs like those provided by Ollama or Hugging Face. To do so, modify the configuration in `llm.py` to point to your preferred model and ensure the necessary dependencies are installed. Note that running open-source LLMs locally may require significant computational resources, such as a powerful GPU.
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
